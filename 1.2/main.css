@@ -1,0 +1,22 @@
+body {
+    font-family: initial sans-serif;
+}
+#assignment-instructions {
+    color:rgb(255, 127, 127);
+    font-family: sans-serif;
+}
+code {
+    font-family: monospace;
+    color: red;
+
+}
+.task-3 {
+    color: green;
+}
+
+
+
+ol>li {
+    color: white;
+    background-color: black;
+}
